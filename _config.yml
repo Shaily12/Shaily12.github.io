@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: All about Shaily # the website title (if blank, full name will be used instead)
+title: #All about Shaily # the website title (if blank, full name will be used instead)
 first_name: Shaily
 middle_name:
 last_name: Desai
@@ -73,7 +73,7 @@ github_username: Shaily12 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: '@'ShailyDesai6 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/shailydesai/ # your LinkedIn user name
+linkedin_username: shailydesai # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
