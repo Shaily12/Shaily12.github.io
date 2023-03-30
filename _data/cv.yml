@@ -2,31 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shaily Desai
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd October 2000
     - name: Languages
-      value: English, German
+      value: English, Hindi, Marathi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's of Engineering (Computer), GPA - 9.01
+      institution: Savitribai Phule Pune University (Pune, India)
+      year: 2018-22
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Relevant Coursework - Engineering Mathematics, Object Oriented Programming, Advanced Data Structures, Machine
+Learning, Data Analytics, Theory Of Computation, Computer Networks, High Performance Computing
 
 - title: Experience
   type: time_table
