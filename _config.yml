@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: #All about Shaily # the website title (if blank, full name will be used instead)
+title: All about Shaily # the website title (if blank, full name will be used instead)
 first_name: Shaily
-middle_name:
+middle_name: 
 last_name: Desai
 email: shaily.desai21@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,7 +14,7 @@ footer_text: >
 keywords: NLP, research, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png #⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Shaily12.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -258,8 +258,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Desai]
+  first_name: [Shaily, S.]
 
   style: apa
   locale: en
