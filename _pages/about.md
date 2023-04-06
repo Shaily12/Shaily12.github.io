@@ -19,7 +19,7 @@ Hello there! I am Shaily, a Research Associate at the [Laboratory for Computatio
 
 Being a novice researcher, my interests are to explore AI and its applications for Social Good, and to explore low-resource computational implications on the performance of Large Language Models. 
  
-I graduated with a Computer Engineering degree from Pune University in 2022, prior to which I was part of a few research projects with Prof. Manisha Marathe in the domain of Sentiment Analysis and Neural Machine Translation. Head to my [publications](/publications.md) page for a list of my research work(does not contain one paper under review).
+I graduated with a Computer Engineering degree from Pune University in 2022, prior to which I was part of a few research projects with Prof. Manisha Marathe in the domain of Sentiment Analysis and Neural Machine Translation. Head to my [publications](/publications/) page for a list of my research work(does not contain one paper under review).
 
 Among other hobbies, I have been an avid guitarist for the past six years, love Star Wars, Lord of The Rings, and possess a deep appreciation for chai. 
 
