@@ -25,4 +25,4 @@ Among other hobbies, I have been an avid guitarist for the past six years, love 
 
 Feel free to reach out to me via Email or LinkedIn!
 
-[CV]("assets/pdf/ShailyDesai-Resume-April'23.pdf") / [CV]("./ShailyDesai-Resume-April'23.pdf") / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
+[CV](https://drive.google.com/file/d/1pY5qyEDmN_x0EBQV6-ZGzLSBAM9fxkFB/view?usp=sharing) / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
