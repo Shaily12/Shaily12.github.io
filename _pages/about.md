@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: [Changing something CV assets First]("assets/pdf/ShailyDesai-Resume-April'23.pdf") /[CV PDF First]("pdf/ShailyDesai-Resume-April'23.pdf") /[CV Plain]("ShailyDesai-Resume-April'23.pdf") / [CV Drive]("https://drive.google.com/file/d/1pY5qyEDmN_x0EBQV6-ZGzLSBAM9fxkFB/view?usp=share_link") / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
+  address: >
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,3 +24,5 @@ I graduated with a Computer Engineering degree from Pune University in 2022, pri
 Among other hobbies, I have been an avid guitarist for the past six years, love Star Wars, Lord of The Rings, and possess a deep appreciation for chai. 
 
 Feel free to reach out to me via Email or LinkedIn!
+
+[Changing something CV assets First]("assets/pdf/ShailyDesai-Resume-April'23.pdf") /[CV PDF First]("pdf/ShailyDesai-Resume-April'23.pdf") /[CV Plain]("ShailyDesai-Resume-April'23.pdf") / [CV Drive]("https://drive.google.com/file/d/1pY5qyEDmN_x0EBQV6-ZGzLSBAM9fxkFB/view?usp=share_link") / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
