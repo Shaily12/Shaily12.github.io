@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: Links: [CV assets First]("assets/pdf/ShailyDesai-Resume-April'23.pdf") /[CV PDF First]("pdf/ShailyDesai-Resume-April'23.pdf") /[CV Plain]("ShailyDesai-Resume-April'23.pdf") / [CV Drive]("https://drive.google.com/file/d/1pY5qyEDmN_x0EBQV6-ZGzLSBAM9fxkFB/view?usp=share_link") / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
+  address: [Changing something CV assets First]("assets/pdf/ShailyDesai-Resume-April'23.pdf") /[CV PDF First]("pdf/ShailyDesai-Resume-April'23.pdf") /[CV Plain]("ShailyDesai-Resume-April'23.pdf") / [CV Drive]("https://drive.google.com/file/d/1pY5qyEDmN_x0EBQV6-ZGzLSBAM9fxkFB/view?usp=share_link") / [Google Scholar](https://scholar.google.co.in/citations?user=b_v1XKYAAAAJ&hl=en&oi=ao)
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
