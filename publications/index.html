@@ -118,20 +118,33 @@
         <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
-        <div id="zheng2023makes" class="col-sm-8">
+        <div id="gupta-etal-2023-counterspeeches" class="col-sm-8">
         <!-- Title -->
-        <div class="title">What Makes Good Counterspeech? A Comparison of Generation Approaches and Evaluation Metrics</div>
+        <div class="title">Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation</div>
         <!-- Author -->
         <div class="author">
         
 
-        Yi Zheng, Björn Ross, and Walid Magdy</div>
+        Rishabh Gupta, <em>Shaily Desai</em>, Manvi Goel, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Anil Bandhakavi, Tanmoy Chakraborty, Md. Shad Akhtar' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
         
         <div class="periodical">
-          <em>In Proceedings of the 1st Workshop on CounterSpeech for Online Abuse (CS4OA)</em>, 2023
+          <em>In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</em>, Jul 2023
         </div>
         <div class="periodical">
           
@@ -139,14 +152,18 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           </div>
           
           <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.18653/v1/2023.acl-long.318"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2023.acl-long.318" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
-          
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Counterspeech has been demonstrated to be an efficacious approach for combating hate speech. While various conventional and controlled approaches have been studied in recent years to generate counterspeech, a counterspeech with a certain intent may not be sufficient in every scenario. Due to the complex and multifaceted nature of hate speech, utilizing multiple forms of counter-narratives with varying intents may be advantageous in different circumstances. In this paper, we explore intent-conditioned counterspeech generation. At first, we develop IntentCONAN, a diversified intent-specific counterspeech dataset with 6831 counterspeeches conditioned on five intents, i.e., informative, denouncing, question, positive, and humour. Subsequently, we propose QUARC, a two-stage framework for intent-conditioned counterspeech generation. QUARC leverages vector-quantized representations learned for each intent category along with PerFuMe, a novel fusion module to incorporate intent-specific information into the model. Our evaluation demonstrates that QUARC outperforms several baselines by an average of ~10% across evaluation metrics. An extensive human evaluation supplements our hypothesis of better and more appropriate responses than comparative systems.</p>
+          </div>
         </div>
       </div>
 </li></ol>
